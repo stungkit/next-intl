@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.19.3 (2023-08-23)
+
+**Note:** Version bump only for package use-intl
+
+
+
+
+
 ## 2.19.2 (2023-08-22)
 
 
